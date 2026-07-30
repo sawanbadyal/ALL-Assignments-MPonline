@@ -8,7 +8,7 @@
 
 **Batch Number:** 1A
 
-**Email ID:** sawanpreet.23bai10793vitbhopal.ac.in 
+**Email ID:** sawanpreet.23bai10793@vitbhopal.ac.in 
 
 A deep learning project that recognizes **faces of 7 public figures** from the **LFW (Labeled Faces in the Wild)** dataset using a custom **Convolutional Neural Network (CNN)** built with TensorFlow/Keras, targeting **90%+ accuracy**.
 
