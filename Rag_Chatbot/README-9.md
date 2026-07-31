@@ -1,14 +1,14 @@
 # Amazon Quarterly Report RAG Chatbot
 
-**Author:** Akshat Garg  
+**Author:** Sawanpreet Singh Badyal  
 
-**Registration Number:** 23BCE10641 
+**Registration Number:** 23BAI10793
 
-**Application Number:** IN26011052
+**Application Number:** IN26010801
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in  
+**Email ID:** sawanpreet.23bai10793@vitbhopal.ac.in  
 
 A retrieval-augmented generation (RAG) chatbot that answers questions about
 Amazon's quarterly report (10-Q), grounded in the actual filing text — with
